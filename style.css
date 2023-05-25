@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #D3BE9D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.menu {
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu div:hover {
+    color: #D80D05;
+}
+
+.logo {
+    width: 50px;
+    height: 60px;
+    border: 2px solid black;
+    padding: 2px;
+    color: #D80D05;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 25px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ramen-img {
+    width: 700px;
+    height: auto;
+    margin-right: 50px;
+}
+
+/* content section */
+.content {
+    /* border: 5px solid black; */
+
+    padding: 50px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome {
+    /* border: 3px solid black; */
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+span.japanese-cuisine,
+span.japanese-text {
+    color: #D80D05;
+}
+
+span.japanese-text {
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+button {
+    border: 2px solid black;
+    width: 150px;
+    height: 50px;
+    background-color: #D80D05;
+    margin-right: -60px;
+}
+
+span.bowl-border {
+    border-top: 2px groove black;
+}
+
+footer {
+    color: #D80D05;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.line {
+    width: 1050px;
+    border-bottom: 3px solid #D80D05;
+}
