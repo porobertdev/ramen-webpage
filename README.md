@@ -1,0 +1,3 @@
+# ramen-webpage
+
+Done for fun and flexbox practice by using this figma design as reference: https://dribbble.com/shots/15132015-Japanese-Restaurant-Hero-Section-Concept. Credits to her and freepik for the images ([1](https://www.freepik.com/free-vector/retro-geometric-ramen-soup-background_9979234.htm#query=ramen%20bowl&position=19&from_view=keyword&track=ais), [2](https://www.freepik.com/free-vector/ramen-concept-illustration_13717661.htm#query=ramen%20bowl&position=25&from_view=keyword&track=ais)).
